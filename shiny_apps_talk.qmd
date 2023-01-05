@@ -1,0 +1,31 @@
+---
+title: "Building Shiny Apps"
+format: revealjs
+editor: visual
+---
+
+## Shiny Apps
+
+![](images/oldfaithful.png)
+
+## Spatial Portal
+
+![Spatial portal](images/spatialPortal_layout.png){fig-alt="A shiny application with a blue title, icons on either side of an About This Application Secton and a main area prompting a user to create a spatial plot" fig-align="center"}
+
+## naming variables
+
+## Making your app look nice
+
+### Laying out things in html
+
+JavaScript without needing to know JavaScript
+
+Organizing your code and app (periscope but there are also others!)
+
+## Modules
+
+Repetitive chunks of shiny code
+
+## Finding solutions
+
+[shiny_examples](https://github.com/rstudio/shiny-examples)
